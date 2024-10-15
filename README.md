@@ -1,7 +1,8 @@
 # reactpractice1
 
 
-#Looping:
+# Looping:
+
 const NetFlixSeries = () => {
   return (
     <ul>
@@ -14,7 +15,7 @@ const NetFlixSeries = () => {
 };
 
 
-#props
+#  props
 export const List =(props) => {
     return(
         <li>
